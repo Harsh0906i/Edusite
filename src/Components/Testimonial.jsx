@@ -41,12 +41,12 @@ export default function Testimonial() {
                                 <div className="user">
                                     <img src={user1} alt="" />
                                     <div>
-                                        <h3>William Jackson</h3>
+                                        <h3>Natasha Nice</h3>
                                         <span>Edusity, USA</span>
                                     </div>
                                 </div>
                                 <p>
-                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure asperiores exercitationem eligendi aspernatur officia alias unde iusto! Labore, et expedita, in quis magni fdistinctio quidem est voluptatem incidunt!.
+                                I've worked hard this semester to improve my time management skills, and it's paid off in my grades. I've also become more confident in participating during class discussions. All thanks to my class Teacher.
                                 </p>
                             </div>
                         </li>
@@ -60,7 +60,7 @@ export default function Testimonial() {
                                     </div>
                                 </div>
                                 <p>
-                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure asperiores exercitationem eligendi aspernatur officia alias unde iusto! Labore, et expedita, in qui
+                                Reflecting on my progress, I've noticed a significant improvement in my ability to write concise and well-structured essays. I've also enjoyed leading group discussions and collaborating with classmates. Thanks for the supportive enviornment
                                 </p>
                             </div>
                         </li>
@@ -69,12 +69,12 @@ export default function Testimonial() {
                                 <div className="user">
                                     <img src={user3} alt="" />
                                     <div>
-                                        <h3>William Jackson</h3>
+                                        <h3>Rose Williamson</h3>
                                         <span>Edusity, USA</span>
                                     </div>
                                 </div>
                                 <p>
-                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure asperiores exercitationem eligendi aspernatur officia alias unde iusto! Labore, et expedita, in quis magni fugit quisquam sunt alias, dicta quidem blanditiis Lorem ipsum dolor sit
+                                This semester, I've focused on improving my research skills, and I've seen positive results in the quality of my assignments. I've also enjoyed taking on leadership roles in group projects. All Thanks to my teacher to guide me through this process.
                                 </p>
                             </div>
                         </li>
@@ -83,12 +83,12 @@ export default function Testimonial() {
                                 <div className="user">
                                     <img src={user4} alt="" />
                                     <div>
-                                        <h3>William Jackson</h3>
+                                        <h3>Ben Adams</h3>
                                         <span>Edusity, USA</span>
                                     </div>
                                 </div>
                                 <p>
-                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure asperiores exercitationem eligendi aspernatur officia alias unde iusto! Labore, et expedita, in quis magni fugit quisquam sunt alias, dicta quidem blanditiis Lorem ipsum dolor sit amet
+                                I've been working on my public speaking skills, and I'm pleased with how much more comfortable I've become in presenting my ideas in front of the class. I've also appreciated the diverse perspectives shared by my peers.
                                 </p>
                             </div>
                         </li>

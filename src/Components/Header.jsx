@@ -7,6 +7,8 @@ import program_icon from '../assets/program-icon-1.png'
 import program_icon_1 from '../assets/program-icon-2.png'
 import program_icon_2 from '../assets/program-icon-3.png'
 import Title from './Title';
+import './Title.css';
+import Testimonial from './Testimonial';
 export default function Header() {
     return (
         <>
@@ -41,6 +43,7 @@ export default function Header() {
                     </div>
                 </div>
             </div>
+            <Testimonial />
         </>
     )
 }

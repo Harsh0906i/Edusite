@@ -15,7 +15,17 @@ export default function About() {
             <div className="right">
                 <h3>About University</h3>
                 <h2>Nuturing Tommorow's Leaders Today</h2>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium labore numquam dolores libero non tempore Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum labore provident delectus. Inventore necessitatibus a, quia natus, totam, eveniet sequi aperiam aliquid accusamus amet consequuntur. Dignissimos, asperiores aperiam. Odio, iure! odio illum nisi. Et, in incidunt consectetur culpa earum reiciendis dicta ex soluta iusto quo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique vitae repellat ratione commodi iste aliquid laboriosam doloribus nulla delectus ducimus sunt officia officiis, earum tempora iusto dolor explicabo quos eveniet sequi, culpa incidunt. Natus nulla officia illum reprehenderit quas, a praesentium eveniet dicta doloremque exercitationem. Assumenda perspiciatis molestiae minus illum? </p>
+                <br />
+                <p>
+                    Welcome to Edusity, a leading institution dedicated to fostering academic excellence, innovation, and personal growth. Our university is committed to providing a dynamic learning environment where students from diverse backgrounds can thrive and achieve their full potential.
+                    <br />
+                    <br />
+                    Founded in 1980, Maschchussets, USA, Edusity has a rich history of academic tradition combined with a forward-thinking approach to education. We offer a wide range of undergraduate, graduate, and professional programs across various disciplines, ensuring that students have access to cutting-edge knowledge and hands-on experiences that prepare them for success in their chosen careers.
+                    <br />
+                    <br />
+                    Our faculty members are experts in their fields, passionate about teaching, and dedicated to guiding students through their academic journey. They engage students in stimulating discussions, research projects, and experiential learning opportunities that inspire intellectual curiosity and critical thinking.
+                </p>
+                <br />
             </div>
             <VideoPlayer play={play} setplay={setplay} />
         </div>
